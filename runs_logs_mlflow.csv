@@ -1,0 +1,7 @@
+Start Time,Duration,Run ID,Name,Source Type,Source Name,User,Status,abs_error,r2
+2022-12-30 22:08:36,0.5s,fd16da6dd0c54a919e4fb170129410fa,orderly-kite-256,LOCAL,/Users/eugene/opt/anaconda3/lib/python3.9/site-packages/ipykernel_launcher.py,eugene,FINISHED,1454.0650202397583,0.969087105180961
+2022-12-30 22:01:41,100ms,b77fdd9f52564a9c885c36fffe0e71fd,smiling-moth-640,LOCAL,/Users/eugene/opt/anaconda3/lib/python3.9/site-packages/ipykernel_launcher.py,eugene,FINISHED,2407.078619623211,0.8839221619708323
+2022-12-30 21:12:58,0.5s,cc5b94b78a7b4eba930d1745d67c2a1e,charming-bug-157,LOCAL,/Users/eugene/opt/anaconda3/lib/python3.9/site-packages/ipykernel_launcher.py,eugene,FINISHED,1454.0650202397583,0.969087105180961
+2022-12-30 21:12:42,231ms,562f107e332446be914690bc082690be,masked-snail-142,LOCAL,/Users/eugene/opt/anaconda3/lib/python3.9/site-packages/ipykernel_launcher.py,eugene,FINISHED,2538.758147421919,0.8753258658429542
+2022-12-30 20:36:59,0.6s,09ba82f2cad34f9bb0ae3d7855b0e47e,tasteful-sponge-403,LOCAL,/Users/eugene/opt/anaconda3/lib/python3.9/site-packages/ipykernel_launcher.py,eugene,FINISHED,1492.775199928231,0.9653896947513451
+2022-12-30 20:32:00,0.5s,5ab609643c664ac38174db06cbf533c7,carefree-moose-114,LOCAL,/Users/eugene/opt/anaconda3/lib/python3.9/site-packages/ipykernel_launcher.py,eugene,FINISHED,1454.0650202397583,0.969087105180961
